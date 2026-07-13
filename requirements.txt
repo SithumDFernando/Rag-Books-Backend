@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic>=2.0
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langgraph
+chromadb
+pytest
+python-dotenv
+unstructured
+pypdf
+SQLAlchemy
